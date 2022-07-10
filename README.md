@@ -1,7 +1,7 @@
 Hi 👋 My name is Carl Wegbratt
 ==============================
 
-Full Stack Developer
+Developer
 --------------------
 
 I started learning code back 4 years ago with simple HTML/CSS. Now I work on bigger projects including many different languages and love making new fun stuff for people and help solve problems!
