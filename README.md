@@ -8,7 +8,6 @@ I started learning code back 4 years ago with simple HTML/CSS. Now I work on big
 
 * 🌍  I'm based in Sweden, Malmö
 * ✉️  You can contact me at [weggethegamer@gmail.com](mailto:weggethegamer@gmail.com)
-* 🚀  I'm currently working on [EchoRP](http://echorp.net/)
 * 🧠  I'm learning React
 
 <a href="https://www.twitter.com/SGRC4LLZ" target="_blank" rel="noreferrer"><img
