@@ -1,4 +1,4 @@
-Hi 👋 My name is Carl Wegbratt
+Hi 👋 My name is Callz
 ==============================
 
 Developer
@@ -6,8 +6,8 @@ Developer
 
 I started learning code back 4 years ago with simple HTML/CSS. Now I work on bigger projects including many different languages and love making new fun stuff for people and help solve problems!
 
-* 🌍  I'm based in Sweden, Malmö
-* ✉️  You can contact me at [weggethegamer@gmail.com](mailto:weggethegamer@gmail.com)
+* 🌍  I'm based in Sweden
+* ✉️  You can contact me at [Protonmail](mailto:github.handpick534@passmail.com)
 * 🧠  I'm learning React
 
 <a href="https://www.twitter.com/SGRC4LLZ" target="_blank" rel="noreferrer"><img
